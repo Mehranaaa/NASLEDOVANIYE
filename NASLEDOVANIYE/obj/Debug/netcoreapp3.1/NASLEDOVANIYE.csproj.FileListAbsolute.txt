@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\bin\Debug\netcoreapp3.1\NASLEDOVANIYE.exe
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\bin\Debug\netcoreapp3.1\NASLEDOVANIYE.deps.json
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\bin\Debug\netcoreapp3.1\NASLEDOVANIYE.runtimeconfig.json
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\bin\Debug\netcoreapp3.1\NASLEDOVANIYE.runtimeconfig.dev.json
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\bin\Debug\netcoreapp3.1\NASLEDOVANIYE.dll
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\bin\Debug\netcoreapp3.1\NASLEDOVANIYE.pdb
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\obj\Debug\netcoreapp3.1\NASLEDOVANIYE.csprojAssemblyReference.cache
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\obj\Debug\netcoreapp3.1\NASLEDOVANIYE.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\obj\Debug\netcoreapp3.1\NASLEDOVANIYE.AssemblyInfo.cs
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\obj\Debug\netcoreapp3.1\NASLEDOVANIYE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\obj\Debug\netcoreapp3.1\NASLEDOVANIYE.dll
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\obj\Debug\netcoreapp3.1\NASLEDOVANIYE.pdb
+C:\Users\User\Desktop\NASLEDOVANIYE\NASLEDOVANIYE\obj\Debug\netcoreapp3.1\NASLEDOVANIYE.genruntimeconfig.cache
